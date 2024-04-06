@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@io-orkes/conductor-javascript": "^2.0.0",
+    "nodemon": "^3.1.0"
+  },
+  "type": "module"
+}
